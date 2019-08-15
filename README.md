@@ -5,4 +5,4 @@ A collection of Christian quotes that can be imported into the Focus App (https:
 Download the zip file for this repository and extract the files locally. Open the Preferences for the Focus App and click the gear icon button at the bottom of the window to access the Import/Export options. Select Import and choose the .txt file you wish to import.
 
 ## TXT Files for Import
-* Resolutions - Jonathan Edwards.txt
+* Resolutions - Jonathan Edwards.txt (sourced from http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9nZXRvYmplY3QucGw/Yy4xNTo3NDoxLndqZW8=)
